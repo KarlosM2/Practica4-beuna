@@ -20,7 +20,7 @@ public class AppTest {
 
         // Se prueba la función division con los valores 10 y 5,
         // el resultado esperado es 2.
-        assertEquals(2, app.division(10, 5));
+        assertEquals(2, app.division(10, 3));
     }
 }
 
